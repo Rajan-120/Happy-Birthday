@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url("https://i.pinimg.com/originals/3e/3e/a4/3e3ea46c15ca81f885ad6d450cf4dde7.gif");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: whitesmoke;
+   background-repeat: no-repeat;
+   background-image: url("BirthdayImage.jpg");
+   background-size: cover;
+}
+
